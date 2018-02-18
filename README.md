@@ -87,3 +87,7 @@ This repository provides a documentation to show you how to use all the features
 ### Share groups
 ## Settings
 ### Select language
+
+## License
+
+Check out the [LICENSE](LICENSE) file.
